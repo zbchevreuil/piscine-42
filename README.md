@@ -137,8 +137,6 @@ Les derniers exercices d'un `day` sont souvent plus difficiles que les premiers 
 
 L'objectif est avant tout de **progresser régulièrement**.
 
-En général, obtenir environ **50 %** sur un `day` permet de passer au suivant. Il est donc parfois plus intéressant de sécuriser les exercices accessibles plutôt que de passer plusieurs heures sur un seul exercice compliqué.
-
 ---
 
 #  Déroulement de la Piscine
